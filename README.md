@@ -114,8 +114,9 @@ Set correct COM port:
 
 arduino = serial.Serial("COM3", 9600, timeout=1)
 
+copy the arduino program  above and upload it to the arduino using arduino IDE
 
-Change "COM3" if needed.
+Change "COM3/COM5/COM7" in the python program according to the port u connected in your device/laptop.
 
 4️⃣ Run the Game
 python main.py
