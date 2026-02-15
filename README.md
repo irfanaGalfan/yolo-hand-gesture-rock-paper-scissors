@@ -100,8 +100,10 @@ AI-RPS-YOLO-Arduino/
 
 # ▶️ Installation
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/ai-rps-yolo-arduino.git
-cd ai-rps-yolo-arduino
+git clone https://github.com/irfanaGalfan/yolo-hand-gesture-rock-paper-scissors.git
+
+cd yolo-hand-gesture-rock-paper-scissors
+
 
 2️⃣ Install Dependencies
 pip install ultralytics opencv-python numpy pyserial
